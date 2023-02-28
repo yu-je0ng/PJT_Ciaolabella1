@@ -86,7 +86,7 @@
 
 <img src="assets/ciaolabella_eco1.png" width="100%" height="100%" align="center" title="ciaolabella_eco1"/>
 
-<img src="assets/ecopoint1.png" width="100%" height="100%" align="center" title="ecopoint1"/>
+<img src="assets/ecopoint1.jpg" width="100%" height="100%" align="center" title="ecopoint1"/>
 
 
 
@@ -94,7 +94,7 @@
 
 <img src="assets/ciaolabella_eco2.png" width="100%" height="100%" align="center" title="ciaolabella_eco2"/>
 
-<img src="assets/ecopoitn2.png" width="100%" height="100%" align="center" title="ecopoitn2"/>
+<img src="assets/ecopoitn2.jpg" width="100%" height="100%" align="center" title="ecopoitn2"/>
 
 
 
@@ -127,14 +127,14 @@
 - Ecopoint 서비스를 이용하여 적립한 에코 포인트에 따른 에코레벨 부여
 - 에코 포인트 적립 현황 조회
 
-<img src="assets/ciaolabella1_mypage.png" width="100%" height="100%" align="center" title="ciaolabella1_mypage"/>
+<img src="assets/ciaolabella1_mypage.jpg" width="100%" height="000%" align="center" title="ciaolabella1_mypage"/>
 
 
 - 회원가입 및 로그인 페이지
 
-  <img src="assets/sign in.png" width="50%" height="50%" align="center" title="sign in"/>
+  <img src="assets/sign in.png" width="50%" height="50%" title="sign in"/>
 
-  <img src="assets/sign up.png" width="55%" align="center" title="sign up"/>
+  <img src="assets/sign up.png" width="50%" title="sign up"/>
 
   
 
@@ -145,5 +145,4 @@
 - 실시간으로 사용자 로그 데이터를 수집하여 ELK을 통한 시각화.
 
 <img src="assets/adminpage.png" width="100%" height="100%" align="center" title="adminpage"/>
-
 
