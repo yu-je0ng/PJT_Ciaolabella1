@@ -118,9 +118,9 @@
 
 <img src="assets/ciaolabella_nolabel.png" width="100%" height="100%" align="center" title="ciaolabella_nolabel"/>
 
-<img src="assets/nolabel1.png" width="100%" height="100%" align="center" title="nolabel1"/>
+<img src="assets/nolabel1.PNG" width="100%" height="100%" align="center" title="nolabel1"/>
 
-<img src="assets/nolabel2.png" width="100%" height="100%" align="center" title="nolabel2"/>
+<img src="assets/nolabel2.PNG" width="100%" height="100%" align="center" title="nolabel2"/>
 
 
 <br/>
@@ -135,7 +135,7 @@
 
 <img src="assets/ciaolabella_lesswaste.png" width="100%" height="100%" align="center" title="ciaolabella_lesswaste"/>
 
-<img src="assets/lesswaste.png" width="100%" height="100%" align="center" title="lesswaste"/>
+<img src="assets/lesswaste.PNG" width="100%" height="100%" align="center" title="lesswaste"/>
 
 
 <br/>
