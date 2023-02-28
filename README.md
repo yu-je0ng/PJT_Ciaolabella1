@@ -67,6 +67,8 @@
 
 
 
+
+
 **<메인 페이지>**
 
 <img src="assets/ciaolabella_home.png" width="100%" height="100%" align="center" title="ciaolabella_home"/>
@@ -74,9 +76,17 @@
 
 
 
+
+
+
+
 **<About 페이지>**
 
 <img src="assets/ciaolabella_about.png" width="100%" height="100%" align="center" title="ciaolabella_about"/>
+
+
+
+
 
 
 
@@ -90,11 +100,19 @@
 
 
 
+
+
+
+
 **<Ecopoint2 페이지>**
 
 <img src="assets/ciaolabella_eco2.png" width="100%" height="100%" align="center" title="ciaolabella_eco2"/>
 
 <img src="assets/ecopoitn2.jpg" width="100%" height="100%" align="center" title="ecopoitn2"/>
+
+
+
+
 
 
 
@@ -111,6 +129,10 @@
 
 
 
+
+
+
+
 **<Less Waste 페이지>**
 
 - 사용자 위치 정보를 기반으로 주변의 레스웨이스트샵 위치 조회.
@@ -119,6 +141,10 @@
 <img src="assets/ciaolabella_lesswaste.png" width="100%" height="100%" align="center" title="ciaolabella_lesswaste"/>
 
 <img src="assets/lesswaste.png" width="100%" height="100%" align="center" title="lesswaste"/>
+
+
+
+
 
 
 
@@ -137,6 +163,10 @@
   <img src="assets/sign up.png" width="50%" title="sign up"/>
 
   
+
+
+
+
 
 
 
