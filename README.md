@@ -32,7 +32,8 @@
   - 친환경 제품 및 상점 위치 조회 서비스
     - 라벨이 없는 제품(Nolabel) 제품 안내
     - 리사이클 박스 "네프론"과 전국의 "레스웨이스트샵" 위치 안내 
-
+<br/>
+<br/>
 
 
 ## 2. 프로젝트 설계
@@ -49,24 +50,22 @@
 
 <img src="assets/erd.png" width="100%" height="100%" align="center" title="erd"/>
 
+<br/>
 
 **< 데이터 명세서>**
 
 <img src="assets/데이터 명세서.png" width="100%" height="100%" align="center" title="데이터 명세서"/>
-
+<br/>
 
 
 ### 2.3. 서비스 플로우
 
 <img src="assets/serviceflow.png" width="100%" height="100%" align="center" title="serviceflow"/>
 
-
-
+<br/>
+<br/>
 
 ## 3. 프로젝트 구현
-
-
-
 
 
 **<메인 페이지>**
@@ -74,19 +73,16 @@
 <img src="assets/ciaolabella_home.png" width="100%" height="100%" align="center" title="ciaolabella_home"/>
 
 
-
-
-
-
+<br/>
+<br/>
 
 
 **<About 페이지>**
 
 <img src="assets/ciaolabella_about.png" width="100%" height="100%" align="center" title="ciaolabella_about"/>
 
-
-
-
+<br/>
+<br/>
 
 
 
@@ -98,9 +94,8 @@
 
 <img src="assets/ecopoint1.jpg" width="100%" height="100%" align="center" title="ecopoint1"/>
 
-
-
-
+<br/>
+<br/>
 
 
 
@@ -110,8 +105,8 @@
 
 <img src="assets/ecopoitn2.jpg" width="100%" height="100%" align="center" title="ecopoitn2"/>
 
-
-
+<br/>
+<br/>
 
 
 
@@ -128,8 +123,8 @@
 <img src="assets/nolabel2.png" width="100%" height="100%" align="center" title="nolabel2"/>
 
 
-
-
+<br/>
+<br/>
 
 
 
@@ -143,8 +138,8 @@
 <img src="assets/lesswaste.png" width="100%" height="100%" align="center" title="lesswaste"/>
 
 
-
-
+<br/>
+<br/>
 
 
 
@@ -164,9 +159,8 @@
 
   
 
-
-
-
+<br/>
+<br/>
 
 
 
